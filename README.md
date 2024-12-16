@@ -1,4 +1,4 @@
-# Odoo Access Rights & Record Rules
+# Odoo Access Rights in a Nutshell
 
 > **Objective:**  
 > Build a simple  understanding of Odoo security in a nutshell, including access rights, record rules, and group logic. Explore hierarchical steps for mastering deeper security concepts.
@@ -91,7 +91,7 @@ You override the rule to limit access to only the tasks assigned to the user:
 </record>
 ~~~
 
-### **Scenario: Override Existed Rule to Restrict Access**
+#### **Scenario 3: Override Existed Rule to Restrict Access**
 
 #### **Original Rule (Using `department_id`)**
 
